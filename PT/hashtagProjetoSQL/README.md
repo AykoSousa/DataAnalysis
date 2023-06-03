@@ -11,11 +11,10 @@ O CASE exposto no vídeo traz como background uma locadora de filmes (HASHTAG MO
 
 -- CASE 1. Descobrir o preço médio de aluguel dos filmes.
 
-![](/imagens/mediaPrecoAluguel.PNG)
-
 ```SQL
 SELECT ROUND(AVG(preco_aluguel),2) FROM filmes;
 ```
+![](/imagens/mediaPrecoAluguel.PNG)
 
 -- CASE 2. Descobrir qual é o preço médio para cada gênero de filme.
 
