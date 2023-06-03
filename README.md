@@ -14,7 +14,7 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 - [Integração PowerBI com Power Apps]()
 - [Análise de dados com SQL]()
 - [Análise de Notas]()
-- [Análise IMC simulado]()
+- [Análise IMC simulado](PT/SimulacaoIMCPython)
 
 ## EN
 Dashboards repository made in Power BI, along with some analysis in python.
