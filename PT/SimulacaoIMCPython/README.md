@@ -16,7 +16,7 @@ Verificar através da geração de dados aleatórios, a tendência de problemas 
    ![](imagens/PrimeiraParte.PNG)
 
 2. Segundo passo é gerar o peso com base nas alturas obtidas na amostra acima, note que guardamos os valores para peso na variável **peso** que recebe um array.
-   ![](imagens/SegndaParte.PNG)
+   ![](imagens/SegundaParte.PNG)
 
 3. No terceiro passo utilizamos os dados obtidos de altura e peso para calcular o IMC e guardar no devido array.
    ![](imagens/TerceiraParte.PNG)
@@ -28,10 +28,10 @@ Verificar através da geração de dados aleatórios, a tendência de problemas 
    ![](imagens/QuintaParte.PNG)
 
 6. Agora com todos dados obtidos, armazenamos todas as variáveis dentro de uma só (**data**), criamos um DataFrame a partir da mesma e mostramos os resultados em forma de tabela.
-   ![](imagens/SextaParte.png)
+   ![](imagens/SextaParte.PNG)
 
 7. Geramos as médias entre PESO, ALTURA E IMC
-   ![](imagens/SetimaParte.png)
+   ![](imagens/SetimaParte.PNG)
 
 8. Por fim geramos as frequências com base nos dados.
    ![](imagens/OitavaParte1.PNG)
