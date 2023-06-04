@@ -7,13 +7,13 @@ Para melhor organização, separei os projetos em pastas com o devido idioma -> 
 Em cada pasta está uma Dashboard diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
 
 ### Projetos
-- [Dashboard de Vendas]()
-- [Dashboard de Salários]()
+- [Dashboard de Vendas]()(Em andamento...)
+- [Dashboard de Salários]()(Em andamento...)
 - [Dashboard Loja ABC](PT/LojaABC)
 - [Análise Turbina Eólica](PT/analise-turbina)
 - [Integração PowerBI com Power Apps](PT/PowerApps)
 - [Análise de dados com SQL](PT/hashtagProjetoSQL)
-- [Análise de Notas]()
+- [Análise de Notas]()(Em andamento...)
 - [Análise IMC simulado](PT/SimulacaoIMCPython)
 
 ## EN
