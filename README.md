@@ -9,7 +9,7 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 ### Projetos
 - [Dashboard de Vendas]()(Em andamento...)
 - [Dashboard de Salários]()(Em andamento...)
-- [Dashboard Loja ABC](PT/LojaABC)
+- [Dashboard Loja ABC](PT/LojaABC)(Em andamento...)
 - [Análise Turbina Eólica](PT/analise-turbina)
 - [Integração PowerBI com Power Apps](PT/PowerApps)
 - [Análise de dados com SQL](PT/hashtagProjetoSQL)
