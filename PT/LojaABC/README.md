@@ -5,7 +5,7 @@ Descrição: Com base no projeto realizado no curso de Excel e PowerBI, ministra
 ## Tela Princípal
 
 - Está é a Home Page do Dashboard, onde o usuário pode escolher qual relátório ele irá ver através dos ícones da tela. Basta clicar e será direcionado a página desejada.
-![](/LojaABC/imagens/TelaPrincipal.PNG)
+![](//LojaABC//imagens//TelaPrincipal.PNG)
 
 ## Tela Vendas
 
