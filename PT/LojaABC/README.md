@@ -5,12 +5,12 @@ Descrição: Com base no projeto realizado no curso de Excel e PowerBI, ministra
 ## Tela Princípal
 
 - Está é a Home Page do Dashboard, onde o usuário pode escolher qual relátório ele irá ver através dos ícones da tela. Basta clicar e será direcionado a página desejada.
-![](//LojaABC//imagens//TelaPrincipal.PNG)
+![](/LojaABC//imagens/TelaPrincipal.PNG)
 
 ## Tela Vendas
 
 - Na tela de vendas, logo acima teremos um scroller com o nome e valor total das vendas feitas por um funcionário, logo abaixo temos uma tabela com imagens, nome do produto, quantidade vendidas e valor da compra. Para chegar nesses valores fiz medidas para cada caso, as mesmas medidas se aplicam aos cartões ao lado com valores de Previsão de Receita, Total Vendido e % Alcançada com base em uma meta pré-estabelecida, R$9000,00 para cada vendedor.
-![](/LojaABC/imagens/TelaVendas.PNG)
+![](/LojaABC/imagens/TelaVendas.png)
 
 ## Tela Funcionários
 
