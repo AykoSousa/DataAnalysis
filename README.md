@@ -9,11 +9,10 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 ### Projetos
 - [Dashboard de Vendas]()(Em andamento...)
 - [Dashboard de Salários]()(Em andamento...)
-- [Dashboard Loja ABC](PT/LojaABC)(Em andamento...)
+- [Dashboard Loja ABC](PT/LojaABC)(PT/LojaABC)
 - [Análise Turbina Eólica](PT/analise-turbina)
 - [Integração PowerBI com Power Apps](PT/PowerApps)
 - [Análise de dados com SQL](PT/hashtagProjetoSQL)
-- [Análise de Notas]()(Em andamento...)
 - [Análise IMC simulado](PT/SimulacaoIMCPython)
 
 ## EN
@@ -30,7 +29,6 @@ In each folder is a different Dashboard, along with a README.md explaining more 
 - [Wind Turbine Analysis]()
 - [PowerBI Integration with Power Apps]()
 - [Data analysis with SQL]()
-- [Grade Analysis]()
 - [Simulated IMC analysis]()
 
 ## FR
@@ -47,5 +45,4 @@ Dans chaque dossier se trouve un dashboard différent, ainsi qu'un fichier READM
 - [Analyse des éoliennes]()
 - [Intégration PowerBI avec Power Apps]()
 - [Analyse de données avec SQL]()
-- [Analyse des notes]()
 - [Analyse IMC simulée]()
